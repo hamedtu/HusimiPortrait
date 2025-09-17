@@ -10,7 +10,7 @@ The codebase is primarily MATLAB for figure generation and C++ (MPI + Eigen) for
 
 
 ### Citation
-If you use this dataset or code, please cite the preprint above. For questions, contact Dr. Hamed Koochaki Kelardeh (`hamed.koochakikelardeh@uni-oldenburg.de`).
+If you use this dataset or code, please cite the manuscript above. For questions, contact **Dr. Hamed Koochaki Kelardeh** (`hamed.koochakikelardeh@uni-oldenburg.de`).
 
 ### Contents
 - `Main.m`: Entry point to reproduce figures. Select a figure via `Fig_choice` and run.
