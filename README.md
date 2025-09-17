@@ -1,6 +1,6 @@
 ## Pre-Floquet States – Data and Reproduction Code
 
-![Husimi/Phase-Space Illustration](tmp2.png)
+![Irises Illustration](irises.jpeg)
 
 This folder contains the data and scripts used to generate figures for the preprint:
 
