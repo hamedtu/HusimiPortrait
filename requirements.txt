@@ -1,0 +1,12 @@
+# This project is primarily MATLAB and C++.
+# A Python environment is not required to reproduce figures in Main.m.
+# This file lists optional Python tools for data inspection/plotting and documents non-Python deps.
+
+# Optional Python packages (use if you load Fig*.txt or *.dat in Python)
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+
+# Non-Python dependencies (informational)
+# - MATLAB R2022b+ with Statistics and Machine Learning Toolbox (for normpdf)
+# - C++17 compiler, Eigen 3.x (header-only), and an MPI implementation (e.g., MPICH/OpenMPI) for main.cpp
