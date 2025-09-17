@@ -18,8 +18,6 @@ If you use this dataset or code, please cite the manuscript above. For questions
 - `Husimiplot.m`: Computes and plots Husimi distributions over phase space and overlays a phase-space portrait.
 - `pSpacePortrait.m`: Generates the Poincaré surface of section used by `Husimiplot`.
 - `main.cpp`: Time-slicing solver (MPI-parallel) to compute Floquet eigenvectors; writes the `TS_eigenvectors_*.dat` files used in Fig. 3 and Fig. 6.
-- Data files for figures: `Fig1.txt`, `Fig2.txt`, `Fig5a.txt`, `Fig5b.txt`, `Fig7.txt`, `Fig8.txt`, `Fig9a.txt`, `Fig9b.txt`.
-- Example eigenvector data: `TS_eigenvectors_0.92_0.40_1.90_10000_64_real.dat`, `TS_eigenvectors_0.92_0.40_1.90_10000_64_imag.dat`.
 
 ### Dataset
 - Text files `Fig*.txt` hold precomputed data arrays used directly by `Main.m` to render figures (return probability, Poincaré maps, occupation probabilities, etc.).
